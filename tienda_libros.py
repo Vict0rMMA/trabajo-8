@@ -1,6 +1,6 @@
 
 
-# tienda_libros.py
+
 from carro_compra import CarroCompras
 from libro import Libro
 

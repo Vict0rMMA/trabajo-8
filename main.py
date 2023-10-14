@@ -22,7 +22,7 @@ if __name__ == "__main__":
         elif opcion == "3":
             ui.adicionar_un_libro_a_catalogo()
         elif opcion == "4":
-            # Agrega aquí la lógica para calcular el total del carrito
+           
             pass
         elif opcion == "5":
             break

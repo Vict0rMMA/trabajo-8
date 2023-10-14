@@ -1,4 +1,4 @@
-# item_compra.py
+
 from libro import Libro
 
 class ItemCompra:
